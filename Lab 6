@@ -1,1 +1,10 @@
+astu864
+dxu970
 
+Python:
+1. queue
+2. FIFO
+3. qsize()
+4. put(). If full the put() operation will be blocked. 
+5. get(). A timeout if it does not exist. 
+6. import queue, then use queue.LifoQueue() when creating the queue.
